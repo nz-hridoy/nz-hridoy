@@ -1,6 +1,6 @@
 Hey there 👋
 
-I’m Nayeemuzaman Hridoy, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and backend development. I make it my mission to develop your idea into pixel-perfect applications that run blazing fast.
+I’m Nayeemuzaman Hridoy, a senior software engineer, creative coder and self-proclaimed web designer and developer who specializes in front-end and backend development. I make it my mission to develop your idea into pixel-perfect applications that run blazing fast.
 
 ## 💼 Skills
 
